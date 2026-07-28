@@ -1,0 +1,30 @@
+[
+  {
+    "name": "YouTube Blog",
+    "type": "rss",
+    "url": "https://blog.youtube/rss/"
+  },
+  {
+    "name": "GitHub Blog",
+    "type": "rss",
+    "url": "https://github.blog/feed/"
+  },
+  {
+    "name": "Cloudflare Blog",
+    "type": "rss",
+    "url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "name": "Google Search Central",
+    "type": "rss",
+    "url": "https://developers.google.com/search/blog/rss.xml"
+  },
+  {
+    "name": "OpenAI News",
+    "type": "html",
+    "url": "https://openai.com/news/",
+    "article_selector": "article",
+    "title_selector": "h2 a",
+    "link_selector": "h2 a"
+  }
+]
