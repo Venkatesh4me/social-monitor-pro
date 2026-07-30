@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-07-29T06:14:51.697578Z",
-    "total_articles_seen": 50,
+    "last_run": "2026-07-30T12:40:23.028927Z",
+    "total_articles_seen": 54,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -23,7 +23,9 @@
             "19b08f561fac2271ffac7f88808fc4781e325340668e8a31ddfcc2062bdbd5f9",
             "e84da2bbf434365aa036defd9164e92ced7d4374cf69ca6f95bce5db9390a4a3",
             "1dec92c7fb337e29dbfa492c8ba870194186f2d8fc435c65511f19567a5a8123",
-            "cc58d8d7718d642c18d2cc8ead2b9dad0eeffa7991a147176322458b069512d4"
+            "cc58d8d7718d642c18d2cc8ead2b9dad0eeffa7991a147176322458b069512d4",
+            "9092e4d9bf4f96e7b2095fa24d5ac7aeb2be3b78c5e64adeeb10a9d20412bef2",
+            "9b4c47c50910260bc871dd67dd40be3d94567e4af61847e3a876c9369fd785a6"
         ],
         "GitHub Blog": [
             "248ed20cc45025e253ae90fb62cf451bf10efa66a6ee487f18004eb22add7a27",
@@ -35,7 +37,8 @@
             "da66777b7a9c8bb6395c6bdcca506bd1def1c102bce3b673a0408e5babae06a7",
             "65eae558f2c149f85b3ce31d1819248fed5078da17ea835cb7e0764468beb85f",
             "6c169183dc4537115d46a1d68b07b2061ec39c5c1327b04f3ce91a3529b5f744",
-            "d61c48ddb449a564fb1e2d9000b273870d1f69abeac48402c3b0dae6c55dca26"
+            "d61c48ddb449a564fb1e2d9000b273870d1f69abeac48402c3b0dae6c55dca26",
+            "1fc0269e37b13db6d8d926e2f9d6f07ca82e4a9cfe30b57569f62cbf0fa3ca58"
         ],
         "Cloudflare Blog": [
             "f69b67f2561ade363be476aa9d073f5db4f25f07ecc67158935e00d92b4a01fd",
@@ -57,7 +60,8 @@
             "ffc14a549ed909e922ee21b25007329fa87fae6e05bce36d0f2fbee8811c0c75",
             "ce189e1e8620f86b01ec8671eccc0bd3164dd216f53bca4ac0afa32ae51ef51f",
             "cf78a1e3cc6456711619bd23479ceff768217a3d03d76fcd1920086af4d6e74f",
-            "bea101f2a748cee0e8f4db673d663ef9ac4c87c93909529a50cf7450309824e3"
+            "bea101f2a748cee0e8f4db673d663ef9ac4c87c93909529a50cf7450309824e3",
+            "b4f04291ed98be1b7a7a160cf8dcaac4e89d9fd59ffa469883374f4f6bd466a8"
         ]
     }
 }
