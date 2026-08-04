@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-08-04T11:38:52.765283Z",
-    "total_articles_seen": 64,
+    "last_run": "2026-08-04T14:06:17.902942Z",
+    "total_articles_seen": 71,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -71,7 +71,14 @@
             "a4d17d0c806afd4e15f4b56e36400b35c79444f240a347cedfd1438aa9dca792",
             "fcd80a6bfe9aa440dd129091f0589f76a9c4353df8335c7d08c6459771660ba0",
             "14f456f70cd846fe46d5482d1d04f2cb7bd9e28bcc575f0c25b638ba4138b8e4",
-            "f9cf809cc9a764f912821ddc0fe0de2e899856712221259cbc1126d9d1ca5262"
+            "f9cf809cc9a764f912821ddc0fe0de2e899856712221259cbc1126d9d1ca5262",
+            "5e9dcc57288e1c7f8b07291a5bba3e637dd20815845a0af697d606f972b9dce2",
+            "b6fc5c0f9c9378c710aa9d2576c0b52066751a89b3d60259b6b5f0c5a3e3dbaf",
+            "67d036e5a9ec34b3784d697a31abae8f156047c48407f6ac83cfa5da0fa4bb01",
+            "226a6d7d9d1c602df2c709f132cc4ebe3cc85ef16582e845bd9092af75193c33",
+            "eaafd85e5e5658cd6694244eca5f2caa84cddb99820d54feb92855d13c395820",
+            "0601150393e7982891d16aa2f7735797ea227f5ac834d9f8d55f22dd738a600a",
+            "b7caf89dc26cc2b1e4998e6de7bd4a6e3ad15b331d9f72ce5d7de445a8bfa2a3"
         ]
     }
 }
