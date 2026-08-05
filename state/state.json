@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-08-05T11:58:40.206456Z",
-    "total_articles_seen": 73,
+    "last_run": "2026-08-05T14:25:24.377441Z",
+    "total_articles_seen": 79,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -25,7 +25,8 @@
             "1dec92c7fb337e29dbfa492c8ba870194186f2d8fc435c65511f19567a5a8123",
             "cc58d8d7718d642c18d2cc8ead2b9dad0eeffa7991a147176322458b069512d4",
             "9092e4d9bf4f96e7b2095fa24d5ac7aeb2be3b78c5e64adeeb10a9d20412bef2",
-            "9b4c47c50910260bc871dd67dd40be3d94567e4af61847e3a876c9369fd785a6"
+            "9b4c47c50910260bc871dd67dd40be3d94567e4af61847e3a876c9369fd785a6",
+            "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58"
         ],
         "GitHub Blog": [
             "248ed20cc45025e253ae90fb62cf451bf10efa66a6ee487f18004eb22add7a27",
@@ -80,7 +81,12 @@
             "226a6d7d9d1c602df2c709f132cc4ebe3cc85ef16582e845bd9092af75193c33",
             "eaafd85e5e5658cd6694244eca5f2caa84cddb99820d54feb92855d13c395820",
             "0601150393e7982891d16aa2f7735797ea227f5ac834d9f8d55f22dd738a600a",
-            "b7caf89dc26cc2b1e4998e6de7bd4a6e3ad15b331d9f72ce5d7de445a8bfa2a3"
+            "b7caf89dc26cc2b1e4998e6de7bd4a6e3ad15b331d9f72ce5d7de445a8bfa2a3",
+            "bb3579809e2425f913b0190b41b899fb0648892b2bc5f4808871ab109025d0be",
+            "23532be951bf7811498a23ff1e2705a05645386adcc47a9dbdedb101c1df282c",
+            "09b11aa0ab16c091a5b7e6fedc2995f2ddcad21aab2f8192c91a671651d66218",
+            "1aaf3ce36fd94ba94af1c4e2b632257cc7355f80e48a75e5eafa0670d7e83497",
+            "5047da51fa6d165c6eec0ae579f4140eb3975b3f9895ce55afd792f609c3429e"
         ]
     }
 }
