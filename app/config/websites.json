@@ -1,9 +1,18 @@
 [
   {
-    "name": "YouTube Blog",
-    "type": "rss",
-    "url": "https://blog.youtube/rss/"
-  },
+  "name": "YouTube Official Blog",
+  "platform": "YouTube",
+  "category": "Official",
+  "type": "rss",
+  "url": "https://blog.youtube/rss/"
+},
+  {
+  "name": "YouTube Creator Blog",
+  "platform": "YouTube",
+  "category": "Creator",
+  "type": "rss",
+  "url": "https://blog.youtube/creator-and-artist-stories/rss/"
+},
   {
     "name": "GitHub Blog",
     "type": "rss",
