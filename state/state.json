@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-08-11T12:59:02.822626Z",
-    "total_articles_seen": 116,
+    "last_run": "2026-08-11T14:22:55.660797Z",
+    "total_articles_seen": 117,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -102,7 +102,8 @@
             "1d6fdef205c2239d1b7813e5810cded9052562de83c7f60d9fd731cf6d08d1cb",
             "10cd079396fe67634165d739eeb8a6896f17f5e8a30bd58f88a01220616f3a50",
             "352842a29586fdd84351a2cad17d955121c418ed9d45097dbdcd3a50b0fcac10",
-            "3cf0078129ef8a59a6d0e63fc53c8f117308ecde91edbb663d8367cafe85814d"
+            "3cf0078129ef8a59a6d0e63fc53c8f117308ecde91edbb663d8367cafe85814d",
+            "44161bc15766c3ddd84d28525bc048e0775a660d5ff168d13b1221ed6aac6dd9"
         ],
         "YouTube Official Blog": [
             "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58",
