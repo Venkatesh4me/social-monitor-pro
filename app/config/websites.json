@@ -7,6 +7,26 @@
   "url": "https://blog.youtube/rss/"
 },
   {
+    "name": "Creator Insider",
+    "type": "rss",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGg-UqjRgzhYDPJMr-9HXCg"
+  },
+  {
+    "name": "VidIq",
+    "type": "rss",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZLFu8bHbwtnIgWLg5UtINw"
+  },
+   {
+    "name": "YouTube Creators",
+    "type": "rss",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkRfArvrzheW2E7b6SVT7vQ"
+  },
+    {
+    "name": "Google",
+    "type": "rss",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA"
+  },
+  {
   "name": "YouTube Creator Blog",
   "platform": "YouTube",
   "category": "Creator",
@@ -29,11 +49,38 @@
     "url": "https://developers.google.com/search/blog/rss.xml"
   },
   {
-    "name": "OpenAI News",
+    "name": "Meta News",
     "type": "html",
-    "url": "https://openai.com/news/",
-    "article_selector": "article",
-    "title_selector": "h2 a",
-    "link_selector": "h2 a"
+    "url": "https://about.fb.com/news/"
+  },
+  {
+    "name": "Instagram Creators",
+    "type": "html",
+    "url": "https://creators.instagram.com/"
+  },
+  {
+    "name": "Instagram Business",
+    "type": "html",
+    "url": "https://business.instagram.com/"
+  },
+  {
+    "name": "LinkedIn Member Blog",
+    "type": "html",
+    "url": "https://www.linkedin.com/blog/member"
+  },
+  {
+    "name": "LinkedIn News",
+    "type": "html",
+    "url": "https://news.linkedin.com/"
+  },
+  {
+    "name": "LinkedIn Marketing",
+    "type": "html",
+    "url": "https://www.linkedin.com/business/marketing/blog"
+  },
+  {
+    "name": "Social Media Today",
+    "type": "html",
+    "url": "https://www.socialmediatoday.com/"
   }
 ]
