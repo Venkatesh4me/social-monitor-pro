@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-09-21T12:01:03.173815Z",
-    "total_articles_seen": 265,
+    "last_run": "2026-09-21T18:16:11.017152Z",
+    "total_articles_seen": 268,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -154,7 +154,8 @@
             "388e14ab4109f7fdb782f3cfcc82e667ebb4c3137678f97b5b37bf179122c15f",
             "bcd2234176a49883162dd5d9febec1c7d0fba49ee22471fa4a6a891cba61d9d4",
             "ef0db8ebec34fe489f9103989037fa203505abd910df9caed5bba404a46ea340",
-            "b3a9e13dd54495b64d36e3256afed7c2912c6fc64aff031ebd3691ac8d0768a1"
+            "b3a9e13dd54495b64d36e3256afed7c2912c6fc64aff031ebd3691ac8d0768a1",
+            "7907ce92f2ffaf059b52362cbf90b5cc617dc72993ab8a3b2a31fb3f2ffd6753"
         ],
         "YouTube Official Blog": [
             "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58",
@@ -209,7 +210,8 @@
             "6c432255ab358fefbc5b1a30299d6b5570d6d5721a6927532686e47711917051",
             "d2ba810125f775cbad3f7ebd598bdd86b7480f051144b13dab889ce2b98a1cd8",
             "7f54acbe3fc9b64c7d2bf8bd1282b13e30ddbca90761ec80c309a3a7d52fa0db",
-            "e94bd5faae9ce2e70a03ef8d278eb322c0487fd689b187bae19defec312130e3"
+            "e94bd5faae9ce2e70a03ef8d278eb322c0487fd689b187bae19defec312130e3",
+            "51a6fdcb919be6814cef65a337d2c8252de39fa45a9b365bf097dfb44f905f45"
         ],
         "VidIq": [
             "959348ed9820cb11f41975146613fbd8bff787b49e3edba589eaa5311b02b88a",
@@ -246,7 +248,8 @@
             "133a72cd13fe87e695bab1a23861133836690fae42525ac949d9497513cdde12",
             "f4ae175493cc1dd93e3e87a9782475521343a4e3197c21a041c15ee1df7cd445",
             "9935e2570820d859f07c83ad897bc051c381c0b243aa8d15060dc16363d655c8",
-            "73e34f993e0db50aa5992d914cd30c635075df4ea2955d426a4c37b4d6e1e09e"
+            "73e34f993e0db50aa5992d914cd30c635075df4ea2955d426a4c37b4d6e1e09e",
+            "85cf45693000527c3dcebf6af21c4f03b5db5eac74c0d680be4e44cd994dde0c"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
