@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-09-25T19:07:26.011102Z",
-    "total_articles_seen": 312,
+    "last_run": "2026-09-25T22:38:56.206752Z",
+    "total_articles_seen": 315,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -289,7 +289,8 @@
             "01bb53b61a93ab9aec499409bcfcafb02eb3f38c85b19aa7e9fad91c24683113",
             "822f8b27ef1fa9f551713c3e9618a1d3acf281239534b0e6daf1079746894867",
             "51bd2137c81a69b3ead9d75ec5539c8a9838fffca7bb744dba64c631f41eba41",
-            "78f4b3fce13637c666de876e7ec1f56bb96f58900f132908192767ec189443ad"
+            "78f4b3fce13637c666de876e7ec1f56bb96f58900f132908192767ec189443ad",
+            "312d12a2d63b32cc94823e977dcf32692127b4a4df90682df1c77b118a4ec118"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
@@ -307,7 +308,8 @@
             "1f78beec66d99a77ee25d1c09f7099dd2332df73648d345ed48495d119f32fd1",
             "570ad72d303f40f9229f71ba015a0954cba55ff9f1bd3e1e324713cb4a74f69b",
             "818932b8080e77b038145c81b5121023ce7bb3b2fd62c8f3b2539b0d2d738fb8",
-            "6d6713f3c588f3e9b5dab035a72e94f848fcda1095d154c96f5802d1b7986ed0"
+            "6d6713f3c588f3e9b5dab035a72e94f848fcda1095d154c96f5802d1b7986ed0",
+            "9b07ad5dd836afc8fa8f15279ba37321eeb558bca5c2ce447c3580c81d4a6e6e"
         ],
         "Google": [
             "bd4fb7a09c330cd74cfdfd319e417c7af5d2aca072ad19fb828107a3f746cc39",
@@ -329,7 +331,8 @@
             "e9de11d15bfaddb6ec9c4790067cb38bdb487c5b531a191f197651a6d62d2a2f",
             "ebd2c9f74ba2d0dc4f21de694ecc3da50adb41943368b75df5bb996cbcd26bb7",
             "44308476f2e0bda168a506e2e934b2974f2a284345ff47e32c2777f21c9689af",
-            "a7892823dcc4c02809b0673fd0b2c18232449c7a323990002f10967e58b26cde"
+            "a7892823dcc4c02809b0673fd0b2c18232449c7a323990002f10967e58b26cde",
+            "314e9304ae62ff911db5c8fdd5b43633613f268a9f0c73c141319735b7c58bd8"
         ]
     }
 }
