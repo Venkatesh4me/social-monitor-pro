@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-09-26T11:40:08.501119Z",
-    "total_articles_seen": 321,
+    "last_run": "2026-09-26T15:47:14.749629Z",
+    "total_articles_seen": 322,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -338,7 +338,8 @@
             "ebd2c9f74ba2d0dc4f21de694ecc3da50adb41943368b75df5bb996cbcd26bb7",
             "44308476f2e0bda168a506e2e934b2974f2a284345ff47e32c2777f21c9689af",
             "a7892823dcc4c02809b0673fd0b2c18232449c7a323990002f10967e58b26cde",
-            "314e9304ae62ff911db5c8fdd5b43633613f268a9f0c73c141319735b7c58bd8"
+            "314e9304ae62ff911db5c8fdd5b43633613f268a9f0c73c141319735b7c58bd8",
+            "cf0c05fd0543cce311e8da9f816018d81850387246fc169ffbf96167155cfaa0"
         ]
     }
 }
