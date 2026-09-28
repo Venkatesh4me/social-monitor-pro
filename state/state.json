@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-09-28T15:45:42.925234Z",
-    "total_articles_seen": 338,
+    "last_run": "2026-09-28T21:35:35.738826Z",
+    "total_articles_seen": 342,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -77,7 +77,9 @@
             "3859a10e5c847e175a0f1c24b0e717489de22bb5af7d8a74a3c34403c91ffc26",
             "89a4b07d92b5255954f8f0f32fb35094568796e47bb98a6ab683245ff49c016d",
             "6878d6f2ab81b0a49bee7fbf37cd334d4016fc2d5271e7ec057dfbfc1d71b305",
-            "184cef5dfff9591d78f33350a4c1858e711b28b9bd2ef54a836f577a31324de7"
+            "184cef5dfff9591d78f33350a4c1858e711b28b9bd2ef54a836f577a31324de7",
+            "478eae446e8f544988df6c64905a7967bb210ec86c5eda77fb494fd250f70527",
+            "7161ad3690d6fd19c575c47ae28b31b63f509eebca05437a4a588f60110fe750"
         ],
         "Cloudflare Blog": [
             "f69b67f2561ade363be476aa9d073f5db4f25f07ecc67158935e00d92b4a01fd",
@@ -309,7 +311,8 @@
             "312d12a2d63b32cc94823e977dcf32692127b4a4df90682df1c77b118a4ec118",
             "0366d942a8cc508275629aaf9370699c4130811e7649068629787adc8707eecd",
             "b4a792660b0c127d7c926772787bf7a857053e1057ddc7aa938bf7a85222bda5",
-            "569eb734ab5de2d87aa4d193b91faec9aae6d4e066b43aa31f375a3592b5fa9f"
+            "569eb734ab5de2d87aa4d193b91faec9aae6d4e066b43aa31f375a3592b5fa9f",
+            "0cefd133e16d4a041e8ab133258672eaec418f7516a61af0e9383bcae6f9c790"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
@@ -355,7 +358,8 @@
             "cf0c05fd0543cce311e8da9f816018d81850387246fc169ffbf96167155cfaa0",
             "8a6f8534bcf66998decb6411634a99ebcd21b811ab642fef57bad704f11a0e60",
             "93e5647a7e9e8e59331832074ffdb0a0ea0c82d6a706623251a459e3486e9056",
-            "355b1e8652a72ef6d98f7451a118e12c391f02b20cc24e7bedb49cf6b4b366c5"
+            "355b1e8652a72ef6d98f7451a118e12c391f02b20cc24e7bedb49cf6b4b366c5",
+            "741d7d0a92f790527b2cf5841b2358ccfdc53d87772284fd724e94ef26dab718"
         ]
     }
 }
