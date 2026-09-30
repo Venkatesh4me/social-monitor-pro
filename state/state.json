@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-09-30T08:52:00.941988Z",
-    "total_articles_seen": 363,
+    "last_run": "2026-09-30T15:37:33.047061Z",
+    "total_articles_seen": 373,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -189,7 +189,16 @@
             "30c81ab7307cb0c68047055ab4a93042852ba6a70fdfe0456f1966ab3cfde4c8",
             "17e8ef811dfdf9ae67c803bb7cdab10ef554480e1af748a56b56ab87fa38a195",
             "dba7ec13982699198ff2a0e3d78015d6536d309682f1743ba6b9e72a3887aea3",
-            "69dd66b8b68755bab363d58ac75e132a6f4dc81020d48dfbce186d978c9fedbf"
+            "69dd66b8b68755bab363d58ac75e132a6f4dc81020d48dfbce186d978c9fedbf",
+            "0d9405782f1c52ab9796d03bdc123e2be6f5d0d2fb3da14ab4509a209e663e72",
+            "8e5bf2fc98c20d42527b82959e37646d7dfae750e494b6475f22485bc4257e13",
+            "1f919c6423d3533ec7d685d9eda6e390b26744813056d71ed9401dc66abf595a",
+            "46e595ba4afdb4e0bd2122ceffa75e32bf53379bed259c93070ce163d67b7375",
+            "88120f822099fe0cb272afe856f548058f1c1374ae4c4b5eb4fc7d7f3f229f25",
+            "3b4dab413a026765a8e7d67a8b9f0a7ddf66fce75f69f23f4f1829db3268e93e",
+            "6734290fc736a92e2926bbec7d1e94680d1b84a8c2e5586a7bf26cbbe58f8e5e",
+            "3c71ce7e4a2da372a3b30431f8bc919abae9618b8da40d2b0befced1867da22b",
+            "8b76ddab464b4ffa68e6e0e9c0366f00e6087605663aed6132f948fe4c86c39e"
         ],
         "YouTube Official Blog": [
             "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58",
@@ -235,7 +244,8 @@
             "d8fe5f3fd7c1a35c50069c357698106168f67896b76fa339b4c3d534c4bf433a",
             "573d7966890ce556d6801bc24a4f098693fcdffbc5d892633c2ea036c1c16ec3",
             "16a77a37c584cd9174e134f179cd19b53b284449b7ee63148528e4366ef43e4e",
-            "dfbc1caf907e7b7af925de5dbd74115a79a2ddf82a8e760a0fabc69ec263dec5"
+            "dfbc1caf907e7b7af925de5dbd74115a79a2ddf82a8e760a0fabc69ec263dec5",
+            "d98c5ba2d455ad32b816f25bb672dd07702cbea2d2b9947c24adf7e2be7f6ad2"
         ],
         "Creator Insider": [
             "93d5e12b396c8060b7dbc99c22106534f09c40c3571abb7939ab55cdad5ba4da",
