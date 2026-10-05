@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-10-05T09:27:00.166223Z",
-    "total_articles_seen": 411,
+    "last_run": "2026-10-05T18:44:50.366552Z",
+    "total_articles_seen": 417,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -83,7 +83,8 @@
             "cd162bb412971f0362b8b5beb71c030b09cd23689882cf2bf60bcb9337a66ad0",
             "d011d1e74fec9427f66b93460e713174cf08ce2a24b47b7b77d34612af047b3c",
             "81c0bb81272b0c4a926922969af1d9623557c0d6d7fe79403405050cbeebab46",
-            "5d29b321ae7fff98e7e4346eb0c9caa3f320f4302457ae9f3cc05d34b03d180d"
+            "5d29b321ae7fff98e7e4346eb0c9caa3f320f4302457ae9f3cc05d34b03d180d",
+            "f3d37b4a73cf29fe2ac61eee9e6154bb7af859060eb4de221843d6b1ea35a2e4"
         ],
         "Cloudflare Blog": [
             "f69b67f2561ade363be476aa9d073f5db4f25f07ecc67158935e00d92b4a01fd",
@@ -220,7 +221,9 @@
             "3a714a9a982e143c2ed59aebe3076cebadc47de4d42861dab2ea6718b0fd1279",
             "d7b6f5efc35b5e72912584c112ba58ac37a2d3454a8baf15bdf4f162ef99375f",
             "90fa3fbadfebd8ea292439132baed28b891521fb3a04a35b90fce056ad69acc4",
-            "2b859bd0442edde426b588a9b7757c1a181091fc5204fdbb9dfe83a8fd65ad13"
+            "2b859bd0442edde426b588a9b7757c1a181091fc5204fdbb9dfe83a8fd65ad13",
+            "1de4d57da22d441e8426d8cc88270899678cd25b14221077b0e903b7851d8b0a",
+            "75d1e628abc15aebd5920906f932da10924ba19e3f029400b23c5161bc12773a"
         ],
         "YouTube Official Blog": [
             "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58",
@@ -309,7 +312,9 @@
             "4e496608f8789a8919a1766e5261f2d5a31e1d73a2dfa0afb81ca717193d247d",
             "aa52b811467230b2ad207d1f82f62e2366daef6300d6a981de24972bb7e1dc9b",
             "9ac6c95bd856d958196a37fbbc35b3dda214e6cef062b65a7147a7304b3198d5",
-            "870cd3dc96d9b89b004052b24fcf3c7ffdfae41e20df32b8e1248fe5d2f321c3"
+            "870cd3dc96d9b89b004052b24fcf3c7ffdfae41e20df32b8e1248fe5d2f321c3",
+            "0c668b4e948b26c149bb08cd2bb03c7848019a09b4ed5586de0551f6879c6a0d",
+            "bc8bb6b932711fe26b577b9a242a6bf03b860dc48ac620a5c2471e2800cafe39"
         ],
         "VidIq": [
             "959348ed9820cb11f41975146613fbd8bff787b49e3edba589eaa5311b02b88a",
@@ -372,7 +377,8 @@
             "a002a905f3d920f4f3088b7399eef3836bc27eef0fbfde6b47a0022ac137d1d9",
             "11e82cac5a1de4d76212dc67668b97af30f2db7e0fe036a0018b276f84cfb00d",
             "59dfea0dae73dd3b972334dc939c2a20ef458e9b056ec9ef3b70dea7f2e2bb88",
-            "34bbfc0eb71d72afeafc885c32f458d1a7dc042d861bf5e6d1d7efc1d960b990"
+            "34bbfc0eb71d72afeafc885c32f458d1a7dc042d861bf5e6d1d7efc1d960b990",
+            "0d755f5f7d85926f638af24377845df18fb146e79e03d3fa3437a5b1c14cd5dd"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
