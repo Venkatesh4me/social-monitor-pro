@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-10-06T19:41:37.153268Z",
-    "total_articles_seen": 423,
+    "last_run": "2026-10-06T23:33:43.485959Z",
+    "total_articles_seen": 424,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -84,7 +84,8 @@
             "d011d1e74fec9427f66b93460e713174cf08ce2a24b47b7b77d34612af047b3c",
             "81c0bb81272b0c4a926922969af1d9623557c0d6d7fe79403405050cbeebab46",
             "5d29b321ae7fff98e7e4346eb0c9caa3f320f4302457ae9f3cc05d34b03d180d",
-            "f3d37b4a73cf29fe2ac61eee9e6154bb7af859060eb4de221843d6b1ea35a2e4"
+            "f3d37b4a73cf29fe2ac61eee9e6154bb7af859060eb4de221843d6b1ea35a2e4",
+            "0b3144ed966a19187b2478c044635d6d29c1436ad1cb8ffa2ef9dcc087845b91"
         ],
         "Cloudflare Blog": [
             "f69b67f2561ade363be476aa9d073f5db4f25f07ecc67158935e00d92b4a01fd",
