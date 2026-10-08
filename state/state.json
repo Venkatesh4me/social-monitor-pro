@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-10-08T17:20:44.753824Z",
-    "total_articles_seen": 431,
+    "last_run": "2026-10-08T22:17:16.397041Z",
+    "total_articles_seen": 433,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -391,7 +391,8 @@
             "35649fa4ee4e4603759b6ed00dd291a110e72a8f8672c01587343ef41dc1a78a",
             "3057a9a5482d792cbf52fa26ea78f6eedc74ca07ce493dd7ea6c3dab09e2fdbe",
             "e41ef3eed63b248984acae06ac89091396dc6d8efb8510b93d1b67460e3439aa",
-            "8674a15b5eb3506f945c95a81cd25f01b43df42b321e9a64e32a50b5648a839c"
+            "8674a15b5eb3506f945c95a81cd25f01b43df42b321e9a64e32a50b5648a839c",
+            "b33d5383c673fdf8212ebd4def5f30430dc21c0ece63f95dfaaba13bf584ea05"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
@@ -448,7 +449,8 @@
             "bc904aca571b515da428ceccec40306895a5d3b299b5b4382920e1bfa89f5763",
             "d53fa38b3eb1737a1bae26bc4ee63d3d7657634528657170b0df195c6b0ae4cb",
             "53b69a7f758f8c141a7ad6a92a983cf66d5d5d6591145c0b838f5d8541186e2f",
-            "d7481fe09a45759814641c6b2a7c79a155a382d73ccd1ee6cda9dec40165e166"
+            "d7481fe09a45759814641c6b2a7c79a155a382d73ccd1ee6cda9dec40165e166",
+            "497bf0da83c12922bbdb4c428a31ef7a4ae52d5e6a6df47052fa9bf67b09a194"
         ]
     }
 }
