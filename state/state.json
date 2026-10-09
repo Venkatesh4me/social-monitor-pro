@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "last_run": "2026-10-09T16:26:49.600119Z",
-    "total_articles_seen": 438,
+    "last_run": "2026-10-09T21:07:38.607492Z",
+    "total_articles_seen": 441,
     "websites": {
         "YouTube Blog": [
             "f1c4aaa5077a40f19d6327571c637714282edb99350e5f28f17726e1509e10f7",
@@ -232,7 +232,8 @@
             "5717ab7edacc25c20290e2c933af2121bbc9b45d968f10e6b6f012db2fa9f0b1",
             "f90d1bacf8161a7a8910555d28898b5bcec1ca9518f1e69f5df16a56d099d3f2",
             "382dcfb41751efb687a610f425c1aca84c82cdcbebb846864cf8fd6a72aba0e2",
-            "b4e112b376af29bc485e7e817e45356b340f081b6719f1d6ec5981be872bd0c9"
+            "b4e112b376af29bc485e7e817e45356b340f081b6719f1d6ec5981be872bd0c9",
+            "49f96385da2071f24a352381ac4f91157ed8bbacf24f37b26d85e57ec623a18d"
         ],
         "YouTube Official Blog": [
             "97036f1c690222b3332a2b3ffd6048bdbdc611ae3bd58b157e97f34653bd2f58",
@@ -396,7 +397,8 @@
             "e41ef3eed63b248984acae06ac89091396dc6d8efb8510b93d1b67460e3439aa",
             "8674a15b5eb3506f945c95a81cd25f01b43df42b321e9a64e32a50b5648a839c",
             "b33d5383c673fdf8212ebd4def5f30430dc21c0ece63f95dfaaba13bf584ea05",
-            "65a7026c4b825295c1e5e2e284d9a0778b1e2389c15d3f0d5e7a35e7303f4184"
+            "65a7026c4b825295c1e5e2e284d9a0778b1e2389c15d3f0d5e7a35e7303f4184",
+            "1204b272a82c9fd3affa669389886a7bc55803e25f9c31bb01de532af52bf483"
         ],
         "YouTube Creators": [
             "9d74089ad754604fc5feffb676efd2d8f227ab4bbe42aa43ef9586448ebfd544",
@@ -421,7 +423,8 @@
             "91f16ec1ee8d7d9392e939e934c9caba9b2b9f8a6805caf31234fbe17433372a",
             "af33912ee1a591784af6d4d2a04525e4191f16b9e4c5175048858750010408f2",
             "06fc28d3853b48d7392d80db220b3facde0bc24e766297ffd71efca08e0a2c89",
-            "96bd12aac107ff9fed94a086e860f65ab0c0bbfbb34c9b8b1bdd8e43d18ecaec"
+            "96bd12aac107ff9fed94a086e860f65ab0c0bbfbb34c9b8b1bdd8e43d18ecaec",
+            "49a6a5517705f55acde9a4ee316970e7f99a409c29cca1505c04868e8792428a"
         ],
         "Google": [
             "bd4fb7a09c330cd74cfdfd319e417c7af5d2aca072ad19fb828107a3f746cc39",
